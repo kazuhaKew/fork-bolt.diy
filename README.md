@@ -152,7 +152,7 @@ You have two options for running Bolt.DIY: directly on your machine or using Doc
 1. **Install Package Manager (pnpm)**:
 
    ```bash
-   npm install -g pnpm
+   sudo npm install -g pnpm
    ```
 
 2. **Install Project Dependencies**:
